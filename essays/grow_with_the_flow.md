@@ -27,7 +27,7 @@ I’ve learned, JavaScript seems to simplify the coding experience with writing 
 than one data type, and allowing flexibility by how we can approach and design code. That can only get better with learning shortcuts the 
 deeper into ES6 is learned and adapted into practice.
 
-## Practice makes you better than yesterday.
+## Practice makes you better than yesterday
 
 Coming into this semester with having just made the turn before hitting the rapids, my thoughts on athletic software engineering is that 
 it is meant to be an engaging experience. This style of learning appears to be stressful, yet there is something to appreciate about its demand 
