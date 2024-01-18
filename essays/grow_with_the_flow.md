@@ -8,9 +8,9 @@ published: true
 labels:
 ---
 
-## Programming the Programmer ##
+## Programming the Programmer
 
-    Prior to having a formal introduction to programming languages, all I knew of writing code were the things we could tinker with on 
+Prior to having a formal introduction to programming languages, all I knew of writing code were the things we could tinker with on 
 personal blogging websites and by sticking code, that I didn’t understand, into text boxes to personalize a profile during the 
 “geriatric-millennial” days of social media. Coming from a generation where computer classes were the least challenging extra-curricular 
 class rather than a part of the core-curriculum of courses, learning to code has been challenging, and is yet rewarding in a different way 
@@ -18,7 +18,8 @@ than what I image it would have been if it were a part of the usual course of st
 thus far, I realize that it has forced me to rewire my logic into performing sequences that are executable code contained in curly brackets. 
 Conceptually, and eventually, it makes sense. And as my knowledge progresses, I better understand the functionality of format and syntax. 
 Ultimately providing a sense of satisfaction and excitement in having found a new form of creative expression.
-	  The first two programming languages I have learned were within the first two years of college. Programming with Java, and C/C++ offered 
+
+The first two programming languages I have learned were within the first two years of college. Programming with Java, and C/C++ offered 
 a lot of fundamental groundwork. Yet it wasn't until starting to learn JavaScript this current semester am I having more fun. Perhaps because 
 certain logic is familiar. Aside from the new syntax, it appears that with JavaScript I’ve entered the era after having learned the rules to 
 now learning how to break them. To some extent, yet I know this experience is really just getting started. Compared to the previous languages 
@@ -26,17 +27,18 @@ I’ve learned, JavaScript seems to simplify the coding experience with writing 
 than one data type, and allowing flexibility by how we can approach and design code. That can only get better with learning shortcuts the 
 deeper into ES6 is learned and adapted into practice.
 
-## Practice makes you better than yesterday. ##
+## Practice makes you better than yesterday.
 
-	Coming into this semester with having just made the turn before hitting the rapids, my thoughts on athletic software engineering is that 
+Coming into this semester with having just made the turn before hitting the rapids, my thoughts on athletic software engineering is that 
 it is meant to be an engaging experience. This style of learning appears to be stressful, yet there is something to appreciate about its demand 
 that requires one to stay concurrent, and be the right amount of uncomfortable to remain active throughout the course. Limiting the chance of 
 complacency, or becoming stagnant in our studies. Therefore, self-discipline is necessary in any hope of being successful at the end of this term. 
 Ultimately, there is much to gain and I am coming to realize that ICS 314 may be the most important course I take within the computer science 
 program at UH Manoa. Because of the intellectual and personal challenges the method of athletic software engineering, and the course curriculum presents.
-  The” workout of the day”, WODs, are weekly challenges that put our skills, comprehension, and speed to the test. Either in a group, or individually 
+
+The” workout of the day”, WODs, are weekly challenges that put our skills, comprehension, and speed to the test. Either in a group, or individually 
 these exercises are perhaps meant to prepare us for real-world scenarios that require quick thinking, and the ability to collaborate with our peers. 
-  Although intimidating to know that there are many exercises ahead within this semester. These are essentially mini game-days that test how much we 
+Although intimidating to know that there are many exercises ahead within this semester. These are essentially mini game-days that test how much we 
 desire to pursue a career in software engineering, and the larger challenges that we may come across at our work desk. The effectiveness of this style 
 of learning is recognizable. Though we haven’t quite gotten the full experience of it yet. I can see how it can be beneficial, given we take our 
 experiences, and opportunities seriously.
