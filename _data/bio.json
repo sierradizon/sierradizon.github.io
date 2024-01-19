@@ -12,7 +12,7 @@
       { "network": "github", "username": "sierradizon", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "sierrajansonsdizon", "url": "http://linkedin.com/in/sierra-jansons-dizon" },
       { "network": "instagram", "username": "sierra.dizon", "url": "http://instagram.com/sierra.dizon" }
-    ]
+    ],
   },
   "interests": [
     { "name": "Software Development" },
@@ -21,7 +21,7 @@
     { "name": "Native-Hawaiian plants" }
   ],
   "skills": [
-    
+    {
       "name": "Languages",
       "keywords": [ "Java, C/C++, JavaScript" ]
     }
