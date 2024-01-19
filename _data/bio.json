@@ -24,7 +24,7 @@
     
       "name": "Languages",
       "keywords": [ "Java, C/C++, JavaScript" ]
-    },
+    }
     {
       "name": "Women's wear Seamstress",
       "keywords": [ "design, pattern drafting, draping, and construction" ]
@@ -41,7 +41,10 @@
       ]
     }
   ],
-  "work": [
+
+ /* 
+
+"work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -94,7 +97,7 @@
       ]
     }
   ],
-  "awards": [
+   "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -111,6 +114,9 @@
   "references": [
     {
       "name": "Available upon request"
-    }
-  ]
+    } 
+  ] 
+
+*/
+
 }
