@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A different path, offeres a different view"
+title: "A different path, a different view"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
