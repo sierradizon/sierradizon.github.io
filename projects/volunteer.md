@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/ohia.jpeg
 title: "Planting for the Future"
 date: 2015 - present
 published: true
@@ -12,13 +12,16 @@ summary: "Preserving Hawaii's Native Plants and Environment"
 ---
 
 <div class="text-center p-4">
-  <img width="265px" 
-       src="../img/kalalau.jpeg" 
+  <img width="230px" 
+       src="../img/lokia2.jpeg" 
        class="img-thumbnail" >
-  <img width="150px" 
+     <img width="130px" 
+       src="../img/lokoia.jpeg" 
+       class="img-thumbnail" >
+  <img width="130px" 
        src="../img/knps.jpeg" 
        class="img-thumbnail" >
-   <img width="300px" 
+   <img width="260px" 
        src="../img/alakai.jpeg" 
        class="img-thumbnail" >
 </div>
