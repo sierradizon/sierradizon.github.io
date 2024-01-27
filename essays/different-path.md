@@ -6,7 +6,14 @@ title: "A different path, a different view"
 date: 2024-01-16
 published: true
 labels:
+- reflection
 ---
+
+<div class="text-center p-4">
+  <img width="250px" 
+       src="../img/doors" 
+       class="img-thumbnail" >
+</div>
 
 ## From plants to computers
 
