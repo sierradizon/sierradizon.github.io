@@ -1,25 +1,26 @@
 ---
 layout: project
 type: project
-image: img/tbase.jpeg, img/tiare.jpeg
+image: iimg/tiare.jpeg, img/candj.JPG, img/kilauea.JPG
 title: "Reap from What I've Sewn"
 date: 2008 - 2022
-published: false
+published: true
 labels:
   - Sewing
   - Design
 summary: "Design and Construction of Customized Bridal Wear"
 ---
 <div class="text-center p-4">
-  <img width="145px" 
-       src="../img/tbase.jpeg" 
+  <img width="175px" 
+       src="../img/candj.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
        src="../img/tiare.jpeg" 
        class="img-thumbnail" >
-  <img width="200px" 
-       src="../img/micromouse/micromouse-circuit.png" 
+   <img width="175px" 
+       src="../img/kilauea.JPG" 
        class="img-thumbnail" >
+
 </div>
      
 	Much of my sewing career involved designing, creating, or altering to customize bridal dresses. I’ve had the opportunity to work for many brides on Kauai, making their ideas come to life for their wedding day. My process would begin with an initial consultation. Where I would get to know the client and take notes on their ideas, and concerns. I would share with them fabric samples to further express the vision of how the dress would feel, and flow. Rough sketches were made, and fabric orders placed after taking body measurements. 
