@@ -11,6 +11,12 @@ labels:
   - StackOverflow
 ---
 
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/question.jpg" 
+       class="img-thumbnail" >
+</div>
+
 ## Watch out for the rabbit hole
 
 Utilizing online resources can offer a bounty of insight and information to what it is you hope to know. For any student looking for guidance, or a software developer meeting his wits end on a project. There may be an existing answer, or others within an online community who are willing to share what they know, or ready to start a discussion that can provide a possible solution for all to benefit. Because of the saturation of information in pages and opinions spread across the internet. Searching for answers can make the experience feel like a clustered and tangled web that leaves you more confused than when you started. Yet there is hope in searching for what it is you seek to find. Which starts with asking smart questions that can lead to an effective learning experience.
