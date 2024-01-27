@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tiare.jpeg
+image: img/sewingtools.jpeg
 title: "Reap from What I've Sewn"
 date: 2008 - 2022
 published: true
