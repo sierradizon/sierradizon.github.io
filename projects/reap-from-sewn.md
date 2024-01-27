@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: iimg/tiare.jpeg, img/candj.JPG, img/kilauea.JPG
+image: iimg/tiare.jpeg
 title: "Reap from What I've Sewn"
 date: 2008 - 2022
 published: true
