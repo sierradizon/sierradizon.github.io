@@ -6,7 +6,7 @@
         "email": "sierra@hawaii.edu",
         "phone": "808-634-6052",
         "website": "https://sierradizon.github.io",
-        "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the Spring of 2025.",
+        "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the Spring of 2025.",
         "location": {
             "address": "",
             "postalCode": "96822",
@@ -37,7 +37,7 @@
             "name": "Website Development"
         },
         {
-            "name": "Sewing and Garment Design"
+            "name": "Garment Design and Sewing"
         },
         {
             "name": "Native-Hawaiian plants"
@@ -51,9 +51,9 @@
             ]
         },
         {
-            "name": "Women's wear Seamstress",
+            "name": "Designer and Seamstress",
             "keywords": [
-                "design, pattern drafting, draping, and construction"
+                "concept design, pattern drafting, draping, and garment construction"
             ]
         }
     ],
@@ -65,6 +65,30 @@
             "startDate": "2022-05-22",
             "endDate": "Present",
             "courses": []
+        }
+    ],
+     "work": [
+        {
+            "company": "UH Manoa Stan Sheriff Center",
+            "position": "Usher",
+            "website": "",
+            "startDate": "2022-09-01",
+            "endDate": "Present",
+            "summary": "Ticket reception, and seating guests",
+            "highlights": [
+                "Maintain a positive guest experience upon arrival an throughout the event. In addition to enforcing the rules and regulations of the Stan Sheriff arena."
+            ]
+        },
+        {
+            "company": "Hawaiian Aroma Caffe",
+            "position": "Barista",
+            "website": "",
+            "startDate": "2022-001-27",
+            "endDate": "present",
+            "summary": "",
+            "highlights": [
+                "Serving crafted espresso beverages."
+            ]
         }
     ],
     "references": [
