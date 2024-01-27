@@ -6,6 +6,9 @@ title: "Grow with the Flow"
 date: 2024-01-17
 published: true
 labels:
+  - javascript
+  - programming
+  - reflection
 ---
 
 <div class="text-center p-4">
