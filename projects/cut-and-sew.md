@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/sewingtools.jpeg
-title: "Reap from What I've Sewn"
+title: "Cut and Sew"
 date: 2008 - 2022
 published: true
 labels:
