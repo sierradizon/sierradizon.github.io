@@ -8,6 +8,12 @@ published: true
 labels:
 ---
 
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/grow.jpg" 
+       class="img-thumbnail" >
+</div>
+
 ### Programming the Programmer
 
 Prior to having a formal introduction to programming languages, all I knew of writing code were the things we could tinker with on 
