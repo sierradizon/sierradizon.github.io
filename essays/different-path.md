@@ -7,11 +7,12 @@ date: 2024-01-16
 published: true
 labels:
 - reflection
+- personalgrowth
 ---
 
 <div class="text-center p-4">
-  <img width="250px" 
-       src="../img/doors" 
+  <img width="400px" 
+       src="../img/doors.png" 
        class="img-thumbnail" >
 </div>
 
