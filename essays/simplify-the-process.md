@@ -12,7 +12,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="200px" 
-       src="../img/question.jpg" 
+       src="../img/Screenshot 2024-02-08 at 17.17.36.png" 
        class="img-thumbnail" >
 </div>
 
