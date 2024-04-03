@@ -18,7 +18,7 @@ labels:
        class="img-thumbnail" >
 </div>
 
- ## Tomato Tomat-oe
+## Tomato To-ma-to
 
 My most recent experience is also the first introduction I have had to any UI Frameworks as well as HTML and CSS. Using Bootstrap within our course material has not been the most daunting experience (as anticipated) when learning a new programming language, compared to how I feel about learning the syntax of JavaScript. Perhaps this is a case of to-each-their-own, and so in my opinion I found this section of the semester to be rewarding because of the ability to see our production on a webpage. Seeming more tangible (or fun to see) than “hello world” or the sum of two products printed on a terminal screen. I realize that there is more to the experience that I am not aware of, and that being able to produce more with other programming languages is possible. However, this section of learning UI basics and frameworks has been the most satisfying part of what we are learning this semester in ICS 314.
 
