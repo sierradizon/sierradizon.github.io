@@ -35,5 +35,6 @@ The UHM Lost and Found application offers registered students a seamless experie
 ## Beyond the basics
 - Signup page for registered UHM students and Department Administors to create accounts.
 - Campus map embedded in the user page for students to reference when searching for a department.
+- New/Recent lost or found items are featured within the user page
 - Option to search the repository of lost and found items for quick search.
 - Documentation
