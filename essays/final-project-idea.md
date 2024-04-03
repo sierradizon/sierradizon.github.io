@@ -8,30 +8,32 @@ labels:
   - Meteor
 ---
 
-## Project: UH Lost and Found
+## Project: UHM Lost and Found
 
-Authors: Victor, Jalen, Eisen, Michelle, Sierra
+Team Members:
+Victor Pagan, Jalen Lum, Michelle Rasavong, Sierra Jansons-Dizon
 
-## Overview:
+## Overview
 The problem: 
-When an item goes missing on the UH campus, it can prove challenging to track down its whereabouts, given that each department or building maintains its own "lost and found" repository. Recognizing that lost items may stray far from their initial point of loss, establishing a centralized system for campus-wide lost and found services enhances communication and increases the chances of item recovery for students. This initiative aims to minimize losses and prevent the accumulation of unclaimed items within individual departments.
+When an item goes missing on the University of Hawai'i Manoa campus, it can prove challenging to track down its whereabouts, given that each department or building maintains its own "lost and found" repository. Recognizing that lost items may stray far from their initial point of loss, establishing a centralized system for campus-wide lost and found services enhances communication and increases the chances of item recovery for students. This initiative aims to minimize losses and prevent the accumulation of unclaimed items within individual departments.
 
 The solution: 
-The UH Lost and Found application offers registered students a seamless experience to reclaim their lost items. By logging in, students gain access to a comprehensive database where they can swiftly search for their belongings. Moreover, the user interface allows students to post details about their lost items on a forum, ensuring thorough coverage in case an item hasn't yet been turned in to a department. Department administrators possess the capability to upload found items onto a dedicated page, facilitating students in locating their missing possessions. Registered UH students can effortlessly navigate the platform, identify their items, and coordinate with the respective department for retrieval.
+The UHM Lost and Found application offers registered students a seamless experience to reclaim their lost items. By logging in, students gain access to a comprehensive database where they can swiftly search for their belongings. Moreover, the user interface allows students to post details about their lost items on a forum, ensuring thorough coverage in case an item has not yet been turned in to a department. Department administrators possess the capability to upload found items onto a dedicated page, facilitating students in locating their missing possessions. Registered UH students may signup for access to the application to navigate the platform, identify their items, and coordinate with the respective department for retrieval.
 
-Page Ideas:
+## Page Ideas
 - Landing page
 - User page
-- Admin home page
-- Lost items page
-- Found items page
+- Admin Home page
+- Lost Items page
+- Found Items page
 
-Use case ideas:
-- Student goes to landing page, checks out lost items page, contacts listed admin who has the item to claim the item, admin updates the item on the website
-- Admin receives a lost item, logs in to account, posts it on the website as found item
-- Lost items can be organized by categories such as clothes, electronic devices, or personal belongings
-- Inbox contains notifications if someone has found your lost item, or similar found items was found recently
+## Case Ideas
+- UHM students may register for an account on the landing page. Verified accounts may login to view their user page, and access the Found Items page, as well as post to the Lost Items page.
+- When a student identifies their found item from the Found Items page the user may contact the department from the application to verify, and locate the item for pick up.
+- In the event a department administrator receives a found item, from the landing page they may login to post an item to the Found Items page. Providing a timestamp of the post and button to message the department.
 
-Beyond the basics:
-- Sign-up page
+## Beyond the basics
+- Signup page for registered UHM students and Department Administors to create accounts.
+- Campus map embedded in the user page for students to reference when searching for a department.
+- Option to search the repository of lost and found items for quick search.
 - Documentation
