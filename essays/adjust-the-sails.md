@@ -10,6 +10,12 @@ labels:
   - Design Patterns
 ---
 
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/boat.jpeg" 
+       class="img-thumbnail" >
+</div>
+
 ## Organized Chaos
 
 When it comes to designing a program, my initial thought is “where do I begin?”. Alright, okay so that's a little scary at first but with a bit of direction we take off. We begin the journey with a vision of creating something functional, and responsive. Things are looking good. Then with a long blink to relieve my eyes, coming back into focus it can appear that all that hard work is looking more confusing than 2 seconds ago. That’s where design patterns show up to lend a helping hand in revisualizing the structure for efficient, and readable code.
