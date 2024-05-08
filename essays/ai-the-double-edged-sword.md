@@ -24,61 +24,61 @@ The expansion of AI continues to integrate within the educational experience. In
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+  - Experience WODs e.g. E18
 
-  When working to complete experience WODs, at times I did request solutions from AI when I couldn't resource the information for myself. Although AI often provides useful solutions, I find that fact-checking AI is also necessary. And so when it came to doing experience WODs at home, it was better to use the course resources or online forums for a more constructive learning experience. 
+    When working to complete experience WODs, at times I did request solutions from AI when I couldn't resource the   information for myself. Although AI often provides useful solutions, I find that fact-checking AI is also necessary. And so when it came to doing experience WODs at home, it was better to use the course resources or online forums for a more constructive learning experience. 
       
-  2. In-class Practice WODs
+  - In-class Practice WODs
 
-  For in-class practice WODs I was able to focus with less pressure, and stress of timed WODs. I did not always turn toward AI for these sessions in which I could research on my own or ask a peer in class.
+    For in-class practice WODs I was able to focus with less pressure, and stress of timed WODs. I did not always turn toward AI for these sessions in which I could research on my own or ask a peer in class.
 
-  3. In-class WODs
+  - In-class WODs
 
-  Calling upon AI for assistance during timed WOD exercises became useful for me. However, utilizing AI can create its own challenges because its responses can easily stray away from reasonable solutions, taking time away from completing the WOD. I found ChatGPT useful when looking for errors, and in correcting format for legible program writing.
+    Calling upon AI for assistance during timed WOD exercises became useful for me. However, utilizing AI can create its own challenges because its responses can easily stray away from reasonable solutions, taking time away from completing the WOD. I found ChatGPT useful when looking for errors, and in correcting format for legible program writing.
 
-  4. Essays
+  - Essays
 
-  I did not use AI for assistance in composing or correcting essays.
+    I did not use AI for assistance in composing or correcting essays.
 
-  5. Final project
+  - Final project
 
-  In completing certain sections of the final project, I found AI to be useful when tyring to write code in places that had been built by a different group member. An example to this is adding code into parts of the program written by someone else. I was having some confusion about the structure of the provided code. AI was helpful in deciphering and to find the best way I could implement my work without disruption.
+    In completing certain sections of the final project, I found AI to be useful when tyring to write code in places that had been built by a different group member. An example to this is adding code into parts of the program written by someone else. I was having some confusion about the structure of the provided code. AI was helpful in deciphering and to find the best way I could implement my work without disruption.
 
-  6. Learning a concept / tutorial
+  - Learning a concept / tutorial
 
-  I found AI helpful in learning concepts, but I did not use it for a tutorial. When it comes to learning concepts, asking questions to understand specific things were useful. However, I wouldn't solely rely on the answers that AI provides but would use it as a starting point for what I should look into further elsewhere. I do not find AI responses to be absolutely reliable. 
+    I found AI helpful in learning concepts, but I did not use it for a tutorial. When it comes to learning concepts, asking questions to understand specific things were useful. However, I wouldn't solely rely on the answers that AI provides but would use it as a starting point for what I should look into further elsewhere. I do not find AI responses to be absolutely reliable. 
 
-  7. Answering a question in class or in Discord
+  - Answering a question in class or in Discord
 
-  Having to answer a question in class or in Discord using AI was not apart of my experience this semester.
+    Having to answer a question in class or in Discord using AI was not apart of my experience this semester.
 
-  8. Asking or answering a smart-question
+  - Asking or answering a smart-question
 
-  Asking or answering smart-questions was not a prompt I would have utilized AI for.
+    Asking or answering smart-questions was not a prompt I would have utilized AI for.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  - Coding example e.g. “give an example of using Underscore .pluck”
 
-  There were probably moments I sought the opinion of a coding example from AI, but I know because of experience that using AI to create examples actually creates more confusion. Especially when learning formats and expectation is different than what ChatGPT would consider a solution. Best to stick to the lesson plan and source documentation for reliable solutions.
+    There were probably moments I sought the opinion of a coding example from AI, but I know because of experience that using AI to create examples actually creates more confusion. Especially when learning formats and expectation is different than what ChatGPT would consider a solution. Best to stick to the lesson plan and source documentation for reliable solutions.
 
-  10. Explaining code
+  - Explaining code
 
-  I have used ChatGPT to explain some coding concepts. Most recently in understanding app communication between client and server.
+    I have used ChatGPT to explain some coding concepts. Most recently in understanding app communication between client and server.
 
-  11. Writing code
+  - Writing code
 
-  This response is in line with some of my other reasons to why I would exercise use of AI. When it comes to writing code, and in the pace of learning throughout the semester. I have found AI useful in developing understandable guidelines to better digest new material, saving me time to focus on projects.
+    This response is in line with some of my other reasons to why I would exercise use of AI. When it comes to writing code, and in the pace of learning throughout the semester. I have found AI useful in developing understandable guidelines to better digest new material, saving me time to focus on projects.
 
-  12. Documenting code
+  - Documenting code
 
-  I did not use AI to specifically compose documentation of code. Yet it was useful in understanding parts of code, which I would use that information to form my own documentation.
+    I did not use AI to specifically compose documentation of code. Yet it was useful in understanding parts of code, which I would use that information to form my own documentation.
 
-  13. Quality assurance 
+  - Quality assurance 
 
-  There was not any need to use AI for quality assurance. IntelliJ prompted these necessary fixes within the IDE. Trying to integrate AI solutions had the potential to create other issues, and so quality assurance was best guided by the standard of the IDE compared to AI solutions.
+    There was not any need to use AI for quality assurance. IntelliJ prompted these necessary fixes within the IDE. Trying to integrate AI solutions had the potential to create other issues, and so quality assurance was best guided by the standard of the IDE compared to AI solutions.
 
-  14. Other uses in ICS 314 not listed above
+  - Other uses in ICS 314 not listed above
 
-  If I were to use AI outside of ICS 314, it would be to generate initial research of a topic. Yet of my overall experience, I do not consider AI to be reliable. Only useful to begin a general search for terms and ideas of what to look into to understand something better.
+    If I were to use AI outside of ICS 314, it would be to generate initial research of a topic. Yet of my overall experience, I do not consider AI to be reliable. Only useful to begin a general search for terms and ideas of what to look into to understand something better.
 
 ### III. Impact on Learning and Understanding:
 
