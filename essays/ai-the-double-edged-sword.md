@@ -7,8 +7,14 @@ date: 2024-04-25
 published: true
 labels:
   - Reflection
-  - Design Patterns
+  - AI
 ---
+
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/ai.jpeg" 
+       class="img-thumbnail" >
+</div>
 
 ### I. Introduction
 
