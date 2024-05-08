@@ -1,4 +1,14 @@
-## AI -- not just another tool in the shed.
+---
+layout: essay
+type: essay
+title: "AI -- the double-edged sword"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-25
+published: true
+labels:
+  - Reflection
+  - Design Patterns
+---
 
 ### I. Introduction
 
