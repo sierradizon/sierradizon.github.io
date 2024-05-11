@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/sewingtools.jpeg
-title: "Cut and Sew"
+title: "UHM Lost and Found"
 date: Spring '24
 published: true
 labels:
