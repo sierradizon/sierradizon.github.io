@@ -8,7 +8,7 @@ published: true
 labels:
   - Sewing
   - Design
-summary: "Design and Construction of Customized Bridal Wear"
+summary: "We all lose it once in while..."
 ---
 
 <div class="text-center p-4">
