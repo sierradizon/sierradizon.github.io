@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI -- the double-edged sword"
+title: "AI -- friend, or foe?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
