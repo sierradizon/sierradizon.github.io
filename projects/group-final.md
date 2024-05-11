@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/campus.jpeg
+image: img/campus-1.jpeg
 title: "UHM Lost and Found"
 date: Spring '24
 published: true
