@@ -1,15 +1,15 @@
 {
     "basics": {
-        "name": "Sierra Jansons-Dizon",
+        "name": "Sierra Dizon",
         "label": "Student",
         "picture": "https://github.com/sierradizon.png",
         "email": "sierra@hawaii.edu",
-        "phone": "808-634-6052",
+        "phone": "",
         "website": "https://sierradizon.github.io",
         "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the Spring of 2025.",
         "location": {
             "address": "",
-            "postalCode": "96822",
+            "postalCode": "",
             "city": "Honolulu",
             "countryCode": "USA",
             "region": "Hawaii"
@@ -29,7 +29,7 @@
     },
     "interests": [
         {
-            "name": "Website Development"
+            "name": "Data Science, and Website Development"
         },
         {
             "name": "Garment Design and Sewing"
@@ -42,7 +42,7 @@
         {
             "name": "Languages",
             "keywords": [
-                "Java, C/C++, JavaScript"
+                "Java, C/C++, JavaScript, Python"
             ]
         },
         {
@@ -64,25 +64,23 @@
     ],
      "work": [
         {
-            "company": "UH Manoa Stan Sheriff Center",
-            "position": "Usher",
+            "company": "",
+            "position": "",
             "website": "",
-            "startDate": "2022-09-01",
-            "endDate": "Present",
-            "summary": "Ticket reception, and seating guests",
+            "startDate": "1",
+            "endDate": "",
+            "summary": "",
             "highlights": [
-                "Maintain a positive guest experience upon arrival an throughout the event. In addition to enforcing the rules and regulations of the Stan Sheriff arena."
             ]
         },
         {
-            "company": "Honolulu Museum of Art Cafe",
-            "position": "Server",
+            "company": "",
+            "position": "",
             "website": "",
-            "startDate": "2024-005-10",
-            "endDate": "Present",
-            "summary": "Restaurant server, and barista",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
             "highlights": [
-                "Guiding patrons to an enjoyable dining experience of food and drinks"
             ]
         }
     ],
