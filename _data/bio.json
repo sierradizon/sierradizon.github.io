@@ -29,7 +29,7 @@
     },
     "interests": [
         {
-            "name": "Data Science, and Website Development"
+            "name": "Data Science, Website Development"
         },
         {
             "name": "Garment Design and Sewing"
@@ -63,16 +63,6 @@
         }
     ],
      "work": [
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "1",
-            "endDate": "",
-            "summary": "",
-            "highlights": [
-            ]
-        },
         {
             "company": "",
             "position": "",
